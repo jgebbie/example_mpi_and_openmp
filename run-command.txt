@@ -1,0 +1,1 @@
+mpiexec -f machinefile -n 5 /Users/jgebbie/Documents/mpi/example-mpi-and-openmp/a.out

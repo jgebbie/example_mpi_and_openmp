@@ -1,0 +1,4 @@
+John-Gebbies-Macbook-Pro.local:1 # Run 1 process on host1
+#host2:4 # Run 4 processes on host2
+#host3:2 # Run 2 processes on host3
+#host4:1 # Run 1 process on host4
