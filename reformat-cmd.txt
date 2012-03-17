@@ -1,1 +1,0 @@
-../astyle/build/mac/bin/astyle --style=linux --pad-oper --pad-paren --pad-header --keep-one-line-statements --convert-tabs --align-pointer=type --align-reference=type main.c

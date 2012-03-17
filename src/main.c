@@ -9,7 +9,7 @@
 #define BUFSIZE 128
 #define TAG 0
 
-int main ( int argc, char *argv[] )
+int main ( int argc, char* argv[] )
 {
     char idstr[32];
     char buff[BUFSIZE];
